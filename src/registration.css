@@ -1,0 +1,13 @@
+form {
+  display: flex;
+  flex-direction: column;
+}
+form > * {
+    margin-block-end: 1rem;
+}
+.checkbox-group {
+  display: inline;
+}
+button {
+    border: 1px solid blue;
+}
